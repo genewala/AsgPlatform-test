@@ -1,0 +1,21 @@
+.main-inbox {
+    border: 1px solid;
+    width: 100%;
+    margin-top: 10px;
+    height: 85vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.main-inbox-left {
+width: 33%;
+border: 1px solid;
+margin-right: 4%;
+background-color: #dad873;
+}
+
+.main-inbox-right {
+    border: 1px solid;
+    width: 63%;
+    background-color: #dad873;
+}
